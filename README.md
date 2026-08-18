@@ -1,16 +1,13 @@
-## Hi there 👋
+### Alin
 
-<!--
-**Altair7Z/Altair7Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Student Developer | Beginner Programmer
+📚 Learning to Code for ~1 Year
+🐣 Still a Beginner — Learning from the Basics
+💡 Exploring Web Development & Python
+🛠️ HTML • CSS • JavaScript • Python • PHP
+🎮 Interested in Creative Projects & Programming
+🔍 Learning by Building, Breaking, Fixing & Rebuilding
+📈 Slowly improving, one project at a time
+🌱 Currently learning, experimenting, and growing
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “I’m not an expert. I’m just someone who started coding and decided not to stop.”
