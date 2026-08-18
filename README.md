@@ -12,4 +12,3 @@
 📈 Slowly improving, **one project at a time** <br>
 🌱 Currently **learning, experimenting, and growing** <br>
 
-> *“I’m not an expert. I’m just someone who started coding and decided not to stop.”*
