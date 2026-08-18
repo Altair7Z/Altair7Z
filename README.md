@@ -1,5 +1,5 @@
-### Alin
-
+# Alin
+---
 ## 👋 About Me
 
 👨‍💻 **Student Developer** | Beginner Programmer <br>
