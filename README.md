@@ -1,4 +1,4 @@
-# Alin
+# IzAlin
 ---
 ## 👋 About Me
 
