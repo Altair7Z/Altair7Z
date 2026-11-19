@@ -3,7 +3,6 @@
 ## 👋 About Me
 
 👨‍💻 **Student Developer** | Beginner Programmer <br>
-📚 **Learning to Code for ~1 Year** <br>
 🐣 **Still a Beginner** — Learning from the Basics <br>
 💡 Exploring **Web Development & Python** <br>
 🛠️ **HTML • CSS • JavaScript • Python • PHP** <br>
